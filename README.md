@@ -1,4 +1,4 @@
-# elementary-math
+# elementary-math worksheet
 addition, subtraction, multiplcation 
 
 ## How to run
