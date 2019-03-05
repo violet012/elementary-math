@@ -1,1 +1,2 @@
 # elementary-math
+addition, subtraction 
